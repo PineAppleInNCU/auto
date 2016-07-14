@@ -1,0 +1,196 @@
+[
+    {
+        "outputFile": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 45,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 48,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 264,
+                    "endColumn": 48,
+                    "endOffset": 308
+                },
+                "from": {
+                    "file": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 313,
+                    "endColumn": 43,
+                    "endOffset": 352
+                },
+                "from": {
+                    "file": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 357,
+                    "endColumn": 45,
+                    "endOffset": 398
+                },
+                "from": {
+                    "file": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endColumn": 62,
+                    "endOffset": 461
+                },
+                "from": {
+                    "file": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 466,
+                    "endColumn": 45,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 52,
+                    "endOffset": 560
+                },
+                "from": {
+                    "file": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 565,
+                    "endColumn": 49,
+                    "endOffset": 610
+                },
+                "from": {
+                    "file": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 615,
+                    "endColumn": 43,
+                    "endOffset": 654
+                },
+                "from": {
+                    "file": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 43,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 659,
+                    "endColumn": 52,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 712,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 998
+                },
+                "from": {
+                    "file": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1003,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1158
+                },
+                "from": {
+                    "file": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

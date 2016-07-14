@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/use" >
+
+    <Button
+        android:id="@+id/Geak"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="142dp"
+        android:text="Geak"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/Pebble"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Geak"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="64dp"
+        android:text="Pebble"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Pebble"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="64dp"
+        android:text="回上一頁"
+        android:textSize="30sp" />
+
+</RelativeLayout>

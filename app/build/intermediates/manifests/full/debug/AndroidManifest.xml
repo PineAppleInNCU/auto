@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.guanyi.rehab"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <application
+        android:allowBackup="true"
+        android:allowTaskReparenting="false"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        <service android:name="com.guanyi.rehab.PebbleSensorService" />
+
+        <activity
+            android:name="com.guanyi.rehab.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.guanyi.rehab.main"
+            android:label="main" />
+        <activity
+            android:name="com.guanyi.rehab.record"
+            android:label="record" />
+        <activity
+            android:name="com.guanyi.rehab.video"
+            android:label="video" />
+        <activity
+            android:name="com.guanyi.rehab.Test"
+            android:label="Test" />
+        <activity
+            android:name="com.guanyi.rehab.selection"
+            android:label="selection" />
+        <activity
+            android:name="com.guanyi.rehab.w_main"
+            android:label="w_main" />
+        <activity
+            android:name="com.guanyi.rehab.w_record"
+            android:label="w_record" />
+        <activity
+            android:name="com.guanyi.rehab.w_video"
+            android:label="w_video" />
+        <activity
+            android:name="com.guanyi.rehab.w_Test"
+            android:label="w_Test" />
+        <activity
+            android:name="com.guanyi.rehab.WatchSelection"
+            android:label="WatchSelection" >
+        </activity>
+        <activity
+            android:name="com.guanyi.rehab.Pebble_main"
+            android:label="Pebble_main" >
+        </activity>
+        <activity
+            android:name="com.guanyi.rehab.Pebble_record"
+            android:label="Pebble_record" >
+        </activity>
+        <activity
+            android:name="com.guanyi.rehab.Pebble_test"
+            android:label="Pebble_test" >
+        </activity>
+        <activity android:name="com.guanyi.rehab.Pebble_video" >
+        </activity>
+    </application>
+
+</manifest>

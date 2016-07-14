@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\raw\\finish.mp3",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\raw\\finish.mp3"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\raw\\start.mp3",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\raw\\start.mp3"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ready.mp3",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\raw\\ready.mp3"
+    }
+]

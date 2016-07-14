@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\u14.png",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\drawable-hdpi\\u14.png"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\start_u6.png",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\drawable-hdpi\\start_u6.png"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\u67.png",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\drawable-hdpi\\u67.png"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\train_u8.png",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\drawable-hdpi\\train_u8.png"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reset1.png",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\drawable-hdpi\\reset1.png"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_tab.png",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\drawable-hdpi\\record_tab.png"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loginbtn.png",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\drawable-hdpi\\loginbtn.png"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\phone.png",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\drawable-hdpi\\phone.png"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\start_u6_selected.png",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\drawable-hdpi\\start_u6_selected.png"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back.png",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_u10_selected.png",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\drawable-hdpi\\record_u10_selected.png"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_tab.png",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\drawable-hdpi\\video_tab.png"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title.png",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\drawable-hdpi\\title.png"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record.png",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\drawable-hdpi\\record.png"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reset.png",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\drawable-hdpi\\reset.png"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\watch.png",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\drawable-hdpi\\watch.png"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\u35.png",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\drawable-hdpi\\u35.png"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\create_u8.png",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\drawable-hdpi\\create_u8.png"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\accuont.png",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\drawable-hdpi\\accuont.png"
+    }
+]
