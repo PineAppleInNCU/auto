@@ -1,8 +1,6 @@
 -- Merging decision tree log ---
 manifest
 ADDED from D:\information_Engineering_specialTopic\test_auto\auto_interface\auto\app\src\main\AndroidManifest.xml:2:1-83:12
-	xmlns:android
-		ADDED from D:\information_Engineering_specialTopic\test_auto\auto_interface\auto\app\src\main\AndroidManifest.xml:2:11-69
 	package
 		ADDED from D:\information_Engineering_specialTopic\test_auto\auto_interface\auto\app\src\main\AndroidManifest.xml:3:5-31
 		INJECTED from D:\information_Engineering_specialTopic\test_auto\auto_interface\auto\app\src\main\AndroidManifest.xml
@@ -15,6 +13,8 @@ ADDED from D:\information_Engineering_specialTopic\test_auto\auto_interface\auto
 		ADDED from D:\information_Engineering_specialTopic\test_auto\auto_interface\auto\app\src\main\AndroidManifest.xml:4:5-28
 		INJECTED from D:\information_Engineering_specialTopic\test_auto\auto_interface\auto\app\src\main\AndroidManifest.xml
 		INJECTED from D:\information_Engineering_specialTopic\test_auto\auto_interface\auto\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\information_Engineering_specialTopic\test_auto\auto_interface\auto\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from D:\information_Engineering_specialTopic\test_auto\auto_interface\auto\app\src\main\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:support-v4:22.2.1] D:\information_Engineering_specialTopic\test_auto\auto_interface\auto\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
@@ -59,14 +59,14 @@ ADDED from D:\information_Engineering_specialTopic\test_auto\auto_interface\auto
 MERGED from [com.android.support:support-v4:22.2.1] D:\information_Engineering_specialTopic\test_auto\auto_interface\auto\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from D:\information_Engineering_specialTopic\test_auto\auto_interface\auto\app\src\main\AndroidManifest.xml:23:9-41
+	android:allowTaskReparenting
+		ADDED from D:\information_Engineering_specialTopic\test_auto\auto_interface\auto\app\src\main\AndroidManifest.xml:21:9-45
 	android:allowBackup
 		ADDED from D:\information_Engineering_specialTopic\test_auto\auto_interface\auto\app\src\main\AndroidManifest.xml:20:9-35
 	android:icon
 		ADDED from D:\information_Engineering_specialTopic\test_auto\auto_interface\auto\app\src\main\AndroidManifest.xml:22:9-45
 	android:theme
 		ADDED from D:\information_Engineering_specialTopic\test_auto\auto_interface\auto\app\src\main\AndroidManifest.xml:24:9-67
-	android:allowTaskReparenting
-		ADDED from D:\information_Engineering_specialTopic\test_auto\auto_interface\auto\app\src\main\AndroidManifest.xml:21:9-45
 service#com.guanyi.rehab.PebbleSensorService
 ADDED from D:\information_Engineering_specialTopic\test_auto\auto_interface\auto\app\src\main\AndroidManifest.xml:25:9-72
 	android:name

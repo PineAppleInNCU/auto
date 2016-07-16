@@ -4,7 +4,7 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="113997217652329"
+    timestamp="10741275199581"
     token="6525768307925825082" >
 
     <task
@@ -20,6 +20,19 @@
         name="verifier"
         duration="0" />
 
-    <build timestamp="113997217652329" />
+    <artifact
+        location="D:\information_Engineering_specialTopic\test_auto\auto_interface\auto\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="10354318930752" >
+        <artifact
+            location="D:\information_Engineering_specialTopic\test_auto\auto_interface\auto\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="10741275199581" >
+        <artifact
+            location="D:\information_Engineering_specialTopic\test_auto\auto_interface\auto\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
 
 </instant-run>

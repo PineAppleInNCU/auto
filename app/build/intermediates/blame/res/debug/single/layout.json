@@ -1,47 +1,19 @@
 [
     {
-        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\w_video.xml",
-        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\layout\\w_video.xml"
-    },
-    {
         "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pebble_main.xml",
         "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\layout\\pebble_main.xml"
-    },
-    {
-        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\selection.xml",
-        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\layout\\selection.xml"
-    },
-    {
-        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
-        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\layout\\main.xml"
-    },
-    {
-        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\w_main.xml",
-        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\layout\\w_main.xml"
-    },
-    {
-        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
-        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\layout\\test.xml"
-    },
-    {
-        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\record.xml",
-        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\layout\\record.xml"
     },
     {
         "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\watchselection.xml",
         "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\layout\\watchselection.xml"
     },
     {
-        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\w_record.xml",
-        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\layout\\w_record.xml"
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\w_main.xml",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\layout\\w_main.xml"
     },
     {
-        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\w_test.xml",
-        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\layout\\w_test.xml"
-    },
-    {
-        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\w_video.xml",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\layout\\w_video.xml"
     },
     {
         "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pebble_record.xml",
@@ -52,7 +24,35 @@
         "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\layout\\video.xml"
     },
     {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\record.xml",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\layout\\record.xml"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\w_record.xml",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\layout\\w_record.xml"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\selection.xml",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\layout\\selection.xml"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
         "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pebble_test.xml",
         "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\layout\\pebble_test.xml"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\w_test.xml",
+        "source": "D:\\information_Engineering_specialTopic\\test_auto\\auto_interface\\auto\\app\\src\\main\\res\\layout\\w_test.xml"
     }
 ]
